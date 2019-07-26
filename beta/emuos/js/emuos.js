@@ -42,7 +42,7 @@
 				icon: 'vfat/apps/windows93/favicon.ico',
 				link: 'https://v1.windows93.net/'
 			} , {
-				name: 'Visual Studio Code',
+				name: 'GitPod Editor',
 				icon: 'vfat/apps/monaco-editor/favicon.ico',
 				link: 'https://gitpod.io'
 			} , {
