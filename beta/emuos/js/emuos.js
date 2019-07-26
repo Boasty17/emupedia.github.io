@@ -50,6 +50,10 @@
 				icon: 'vfat/apps/monaco-editor/favicon.ico',
 				link: 'https://glitch.com'
 			} , {
+				name: 'Paint',
+				icon: 'vfat/apps/monaco-editor/favicon.ico',
+				link: 'https://jspaint.app'
+			} , {
 				name: 'Wing 2.0',
 				icon: 'vfat/games/wing/favicon.ico',
 				link: 'vfat/games/wing/index.html'
