@@ -51,7 +51,7 @@
 				link: 'https://glitch.com'
 			} , {
 				name: 'Paint',
-				icon: 'vfat/apps/paint/favicon.png',
+				icon: 'vfat/apps/paint/favicon.ico',
 				link: 'https://jspaint.app'
 			} , {
 				name: 'Wing 2.0',
