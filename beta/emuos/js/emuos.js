@@ -79,7 +79,7 @@
 				link: 'vfat/games/webquake1/index.html'
 			} , {
 				name: 'Pacman',
-				icon: 'vfat/apps/discord/favicon.png',
+				icon: 'vfat/apps/pacman/favicon.png',
 				link: 'vfat/games/pacman/index.html'
 			} , {
 				name: 'Webamp Classic',
